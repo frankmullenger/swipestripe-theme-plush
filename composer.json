@@ -1,5 +1,5 @@
 {
-	"name": "jbridson/swipestripe-theme-plush",
+	"name": "jbridson/plush",
 	"description": "Plush theme for SwipeStripe ecommerce module",
 	"type": "silverstripe-theme",
 	"keywords": ["silverstripe", "theme", "swipestripe", "ecommerce"],
