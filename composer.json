@@ -1,0 +1,17 @@
+{
+	"name": "jbridson/swipestripe-theme-plush",
+	"description": "Plush theme for SwipeStripe ecommerce module",
+	"type": "silverstripe-theme",
+	"keywords": ["silverstripe", "theme", "swipestripe", "ecommerce"],
+	"license": "BSD-3-Clause",
+	"authors": [
+			{
+				"name": "Jeremy Bridson",
+				"homepage": "http://jeremybridson.com/"
+			}
+	],
+	"require": {
+			"silverstripe-themes/module_bootstrap": "3.0.*@dev",
+			"swipestripe/swipestripe": "2.1.*"
+	}
+}
